@@ -1,6 +1,6 @@
 # Book Stock Market 
 
-## If you want to Visit Live: [Click here..](https://jubairahmedjunjun.blogspot.com/)
+## If you want to Visit Live: [Click here..](https://books-stock-market.web.app/)
 
 
 ## Features of Front-End Technology which i used in this project:
